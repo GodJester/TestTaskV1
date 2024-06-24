@@ -1,0 +1,15 @@
+D:\work\TestTask\TT.API\bin\Debug\net8.0\TT.API.deps.json
+D:\work\TestTask\TT.API\bin\Debug\net8.0\TT.API.dll
+D:\work\TestTask\TT.API\bin\Debug\net8.0\TT.API.pdb
+D:\work\TestTask\TT.API\bin\Debug\net8.0\TT.Engine.dll
+D:\work\TestTask\TT.API\bin\Debug\net8.0\TT.Engine.pdb
+D:\work\TestTask\TT.API\obj\Debug\net8.0\TT.API.csproj.AssemblyReference.cache
+D:\work\TestTask\TT.API\obj\Debug\net8.0\TT.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\TestTask\TT.API\obj\Debug\net8.0\TT.API.AssemblyInfoInputs.cache
+D:\work\TestTask\TT.API\obj\Debug\net8.0\TT.API.AssemblyInfo.cs
+D:\work\TestTask\TT.API\obj\Debug\net8.0\TT.API.csproj.CoreCompileInputs.cache
+D:\work\TestTask\TT.API\obj\Debug\net8.0\TT.API.csproj.Up2Date
+D:\work\TestTask\TT.API\obj\Debug\net8.0\TT.API.dll
+D:\work\TestTask\TT.API\obj\Debug\net8.0\refint\TT.API.dll
+D:\work\TestTask\TT.API\obj\Debug\net8.0\TT.API.pdb
+D:\work\TestTask\TT.API\obj\Debug\net8.0\ref\TT.API.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fZEbk9YC8D2tUdSGJoVh1IEdGPgWagYleg8PXdQVqPc=",
+  "Source": "TT.Host",
+  "BasePath": "_content/TT.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

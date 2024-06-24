@@ -1,0 +1,14 @@
+D:\work\TestTask\TT.Engine\bin\Debug\net8.0\TT.Engine.deps.json
+D:\work\TestTask\TT.Engine\bin\Debug\net8.0\TT.Engine.runtimeconfig.json
+D:\work\TestTask\TT.Engine\bin\Debug\net8.0\TT.Engine.dll
+D:\work\TestTask\TT.Engine\bin\Debug\net8.0\TT.Engine.pdb
+D:\work\TestTask\TT.Engine\obj\Debug\net8.0\TT.Engine.csproj.AssemblyReference.cache
+D:\work\TestTask\TT.Engine\obj\Debug\net8.0\TT.Engine.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\TestTask\TT.Engine\obj\Debug\net8.0\TT.Engine.AssemblyInfoInputs.cache
+D:\work\TestTask\TT.Engine\obj\Debug\net8.0\TT.Engine.AssemblyInfo.cs
+D:\work\TestTask\TT.Engine\obj\Debug\net8.0\TT.Engine.csproj.CoreCompileInputs.cache
+D:\work\TestTask\TT.Engine\obj\Debug\net8.0\TT.Engine.dll
+D:\work\TestTask\TT.Engine\obj\Debug\net8.0\refint\TT.Engine.dll
+D:\work\TestTask\TT.Engine\obj\Debug\net8.0\TT.Engine.pdb
+D:\work\TestTask\TT.Engine\obj\Debug\net8.0\TT.Engine.genruntimeconfig.cache
+D:\work\TestTask\TT.Engine\obj\Debug\net8.0\ref\TT.Engine.dll
